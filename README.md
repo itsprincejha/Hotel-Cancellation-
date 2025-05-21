@@ -1,6 +1,8 @@
 # Hotel-Cancellation-
 🔍 To predict whether a hotel booking will be canceled or not before the check-in date.
+
 🎯 Goals of the Project:
+
 Reduce Revenue Loss:
 Help hotels minimize revenue loss due to last-minute cancellations by identifying bookings at high risk of being canceled.
 
